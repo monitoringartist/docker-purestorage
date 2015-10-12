@@ -1,7 +1,8 @@
 Docker image for Purestorage API
 ================================
 
-Python Purestorage API.
+Python Pure Storage API. [Docker Image](https://hub.docker.com/r/monitoringartist/docker-purestorage/)
+[![](https://badge.imagelayers.io/monitoringartist/docker-purestorage:latest.svg)](https://imagelayers.io/?images=monitoringartist/docker-purestorage:latest 'Get your own badge on imagelayers.io')
 
 Typical usage:
 
